@@ -1,5 +1,5 @@
 {
-  "name": "Rada Printables",
+  "name": "Coquette Lashes",
   "bio": "Welcome to our landing page!",
   "images": {
     "avatar": "image.png",
@@ -22,11 +22,11 @@
   "socials": {
     "display": true,
     "items": [
-      { "label": "Facebook", "url": "https://www.facebook.com/profile.php?id=100087162214726" }
+      { "label": "Instagram", "url": "https://www.instagram.com/thebeauty956?igsh=MWEwZDNrNWNkdXFpcA%3D%3D&utm_source=qr" }
     ]
   },
   "contacts": {
-    "display": true,
+    "display": false,
     "items": [
       { "label": "Mail", "url": "mailto:radaprintables@outlook.com" },
       { "label": "Messenger", "url": "https://www.messenger.com" }
@@ -43,8 +43,10 @@
   "wallets": {
     "display": true,
     "items": [
-      { "label": "Paypal", "url": "https://paypal.me/radapc?country.x=US&locale.x=en_US" },
-      { "label": "Cashapp", "url": "https://cash.app/$DavidOlveraII" }
+      { "label": "Paypal", "url": "https://www.paypal.com/qrcodes/p2pqrc/J888ULSWQ9ZBY" },
+      { "label": "Cashapp", "url": "https://cash.app/$RRR0105" },
+      { "label": "Venmo", "url": "https://venmo.com/u/meredithrojo" }
+      
     ]
   },
   "gaming_profiles": {
@@ -61,7 +63,7 @@
     ]
   },
   "qna": {
-    "display": true,
+    "display": false,
     "GISCUS_REPO":"Radaradaraada/rada.github.io",
     "GISCUS_REPO_ID":"R_kgDOIy5mLw",
     "GISCUS_CATEGORY_ID":"DIC_kwDOIy5mL84CTqOB"
