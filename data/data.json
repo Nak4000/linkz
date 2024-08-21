@@ -64,11 +64,4 @@
       { "label": "Playstation", "url": "https://www.playstation.com" },
       { "label": "Twitch", "url": "https://www.twitch.com" }
     ]
-  },
-  "qna": {
-    "display": false,
-    "GISCUS_REPO":"",
-    "GISCUS_REPO_ID":"",
-    "GISCUS_CATEGORY_ID":""
   }
-}
