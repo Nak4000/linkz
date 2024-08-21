@@ -1,39 +1,35 @@
 {
-  "name": "Coqeutte Lashes",
+  "name": "Rada Printables",
   "bio": "Welcome to our landing page!",
   "images": {
     "avatar": "image.png",
     "banner": "banner.png",
-    "hover_change": false,
-    "onHover_avatar": "animated_avatar.gif"
+    "hover_change": true,
+    "onHover_avatar": "hover.png"
   },
-  "background": "#FFB6C1",
+  "background": "#9edcf7",
   "location": "Laredo, Tx",
-  "website": "link-z.vercel.app",
-  "site_url": "https://link-z.vercel.app",
+  "website": "",
+  "site_url": "",
   "buttons": {
-    "display": true,
+    "display": false,
     "items": [{"label": "Message"},{"label": "Follow"},{"label": "Posts"}]
   },
   "footer": {
     "display": true,
-    "text": "Your footer text goes here"
-  },
-  "contacts": {
-    "display": false,
-    "items": [
-      { "label": "Mail", "url": "mailto:yourmailaddress@mail.com" },
-      { "label": "Messenger", "url": "https://www.messenger.com" },
-      { "label": "Whatsapp", "url": "https://www.whatsapp.com" },
-      { "label": "Telegram", "url": "https://www.telegram.com" },
-      { "label": "Skype", "url": "https://www.skype.com" },
-      { "label": "Viber", "url": "https://www.viber.com" }
-    ]
+    "text": "Make sure to Follow us!"
   },
   "socials": {
     "display": true,
     "items": [
-      { "label": "Instagram", "url": "https://www.instagram.com/thebeauty956?igsh=MWEwZDNrNWNkdXFpcA%3D%3D&utm_source=qr" },
+      { "label": "Facebook", "url": "https://www.facebook.com/profile.php?id=100087162214726" }
+    ]
+  },
+  "contacts": {
+    "display": true,
+    "items": [
+      { "label": "Mail", "url": "mailto:radaprintables@outlook.com" },
+      { "label": "Messenger", "url": "https://www.messenger.com" }
     ]
   },
   "designs": {
@@ -47,9 +43,8 @@
   "wallets": {
     "display": true,
     "items": [
-      { "label": "Paypal", "url": "https://www.paypal.com/qrcodes/p2pqrc/J888ULSWQ9ZBY" },
-      { "label": "Venmo", "url": "https://venmo.com/u/meredithrojo" },
-      { "label": "Cashapp", "url": "https://cash.app/$RRR0105" },
+      { "label": "Paypal", "url": "https://paypal.me/radapc?country.x=US&locale.x=en_US" },
+      { "label": "Cashapp", "url": "https://cash.app/$DavidOlveraII" }
     ]
   },
   "gaming_profiles": {
