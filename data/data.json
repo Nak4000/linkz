@@ -1,8 +1,8 @@
 {
-  "name": "Coqutte Lashes",
+  "name": "Coqeutte Lashes",
   "bio": "Welcome to our landing page!",
   "images": {
-    "avatar": "avatar.png",
+    "avatar": "image.png",
     "banner": "banner.png",
     "hover_change": false,
     "onHover_avatar": "animated_avatar.gif"
