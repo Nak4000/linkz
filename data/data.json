@@ -64,4 +64,11 @@
       { "label": "Playstation", "url": "https://www.playstation.com" },
       { "label": "Twitch", "url": "https://www.twitch.com" }
     ]
+  },
+  "qna": {
+    "display": true,
+    "GISCUS_REPO":"Radaradaraada/rada.github.io",
+    "GISCUS_REPO_ID":"R_kgDOIy5mLw",
+    "GISCUS_CATEGORY_ID":"DIC_kwDOIy5mL84CTqOB"
   }
+}
