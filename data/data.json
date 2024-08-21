@@ -33,22 +33,7 @@
   "socials": {
     "display": true,
     "items": [
-      { "label": "Twitter", "url": "https://www.twitter.com" },
-      { "label": "Discord", "url": "https://www.discord.com" },
-      { "label": "Github", "url": "https://www.github.com" },
-      { "label": "Facebook", "url": "https://www.facebook.com" },
-      { "label": "Instagram", "url": "https://www.instagram.com" },
-      { "label": "Tiktok", "url": "https://www.tiktok.com" },
-      { "label": "Linkedin", "url": "https://www.linkedin.com" },
-      { "label": "Youtube", "url": "https://www.youtube.com" },
-      { "label": "Snapchat", "url": "https://www.snapchat.com" },
-      { "label": "Tumblr", "url": "https://www.tumblr.com" },
-      { "label": "Pinterest", "url": "https://www.pinterest.com" },
-      { "label": "Reddit", "url": "https://www.reddit.com" },
-      { "label": "Spotify", "url": "https://www.spotify.com" },
-      { "label": "Stackoverflow", "url": "https://www.stackoverflow.com" },
-      { "label": "Slack", "url": "https://www.slack.com" },
-      { "label": "Amazon", "url": "https://www.amazon.com" }
+      { "label": "Instagram", "url": "https://www.instagram.com/thebeauty956?igsh=MWEwZDNrNWNkdXFpcA%3D%3D&utm_source=qr" },
     ]
   },
   "designs": {
@@ -62,11 +47,9 @@
   "wallets": {
     "display": true,
     "items": [
-      { "label": "Paypal", "url": "https://www.paypal.com" },
-      { "label": "Venmo", "url": "https://www.venmo.com" },
-      { "label": "Cashapp", "url": "https://www.cashapp.com" },
-      { "label": "Bitcoin", "url": "https://www.bitcoin.com" },
-      { "label": "Ethereum", "url": "https://www.ethereum.com" }
+      { "label": "Paypal", "url": "https://www.paypal.com/qrcodes/p2pqrc/J888ULSWQ9ZBY" },
+      { "label": "Venmo", "url": "https://venmo.com/u/meredithrojo" },
+      { "label": "Cashapp", "url": "https://cash.app/$RRR0105" },
     ]
   },
   "gaming_profiles": {
