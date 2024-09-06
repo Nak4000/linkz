@@ -5,7 +5,7 @@
     "avatar": "image.png",
     "banner": "banner.png",
     "hover_change": true,
-    "onHover_avatar": "hover.png"
+    "onHover_avatar": "animated_avatar.png"
   },
   "background": "#FFB6C1",
   "location": "Laredo, Tx",
